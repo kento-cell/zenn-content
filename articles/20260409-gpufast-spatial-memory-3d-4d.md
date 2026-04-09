@@ -1,5 +1,5 @@
 ---
-title: "【脳内GPUの限界突破】Fast Spatial Memory：次世代3D/4Dリコンストラクションの秘密兵器"
+title: "【脳内GPUの限界突破】Fast Spatial Memory：次世代3D/4Dの秘密兵器"
 emoji: "📝"
 type: "tech"
 topics: ["ai", "tech", "machinelearning"]

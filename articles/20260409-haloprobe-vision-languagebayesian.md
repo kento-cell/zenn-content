@@ -1,5 +1,5 @@
 ---
-title: "【幻影検出の終焉？】HaloProbe：Vision-Languageモデルのオブジェクトハルシネーションを根絶するBayesianフレームワーク"
+title: "【幻影検出の終焉？】HaloProbe：AIの幻覚を根絶する新手法"
 emoji: "📝"
 type: "tech"
 topics: ["ai", "tech", "machinelearning"]
