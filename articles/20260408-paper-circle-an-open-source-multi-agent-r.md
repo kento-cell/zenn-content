@@ -119,3 +119,10 @@ URL: https://arxiv.org/abs/2604.06170v1
 *   OpenAI. "GPT Models." [https://openai.com/models/](https://openai.com/models/) (取得日: 2024年05月16日) (LLMの例として)
 *   Mermaid.js. "Mermaid Live Editor." [https://mermaid.live/](https://mermaid.live/) (取得日: 2024年05月16日) (Mermaid記法のリファレンス)
 
+## 関連リンク
+
+- [SkillHacks - プログラミングスクール](https://px.a8.net/svt/ejp?a8mat=4B1H1P+97114I+4K3S+5YJRM) - 独学で挫折した人向け実践型スクール
+- [技術書](https://www.amazon.co.jp/s?k=Python+実践&tag=satoarata-22) - Amazonで技術書をチェック
+
+---
+※一部にPRを含みます。
