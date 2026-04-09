@@ -1,5 +1,5 @@
 ---
-title: "Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework"
+title: "AI論文レビュー自動化は死んだ？ Paper Circleで研究者コミュニティを再構築する"
 emoji: "📝"
 type: "tech"
 topics: ["ai", "tech"]
