@@ -8,6 +8,9 @@ published: true
 
 ## 【脳内GPUの限界突破】Fast Spatial Memory：次世代3D/4Dリコンストラクションの秘密兵器
 
+![Rocket ship blasts off from a brain in space.](data/images/stock/zenn-Fast_Spatial_Memory__0.jpg)
+
+
 日本のWebエンジニアなら一度は「AIで何か作ってみたい」と思ったことがあるのではないでしょうか？しかし、3D/4Dリコンストラクションのような複雑な分野に手を出そうとすると、莫大な計算資源や専門知識が必要で、挫折してしまう…そんな経験はありませんか？
 
 そこで今回は、その壁を打ち破る可能性を秘めた、最先端の技術「Fast Spatial Memory (FSM)」に焦点を当てます。FSMは、まるで脳の記憶のように、過去の情報を効率的に利用し、高品質な3D/4Dリコンストラクションを実現する革新的なモデルです。
@@ -25,6 +28,9 @@ published: true
 LaCT（Large Chunk Test-Time Training）は、長文脈の3Dリコンストラクションにおいて優れた性能を発揮する手法です。しかし、LaCTの従来のモデルは、入力シーケンス全体を単一の大きなチャンクとして扱うため、長すぎるシーケンスの処理には限界がありました。また、推論時に常にモデル全体を更新するため、過去の学習内容を忘れてしまう（Catastrophic Forgetting）問題や、過学習（Overfitting）のリスクも抱えています。
 
 この課題を解決するために、著者らはElastic Test-Time Trainingというアプローチを導入しました。Elastic Test-Time Trainingは、Elastic Weight Consolidation（EWC）に触発されたもので、モデルのパラメータを「アンカー状態」と呼ばれる基準値の周りに固定することで、Catastrophic ForgettingとOverfittingを抑制します。
+
+
+![A wooden block spelling memory on a table](data/images/stock/zenn-Fast_Spatial_Memory__1.jpg)
 
 ## 2. Fast Spatial Memory (FSM) のアーキテクチャ
 

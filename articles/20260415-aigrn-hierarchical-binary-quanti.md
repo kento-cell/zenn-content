@@ -8,7 +8,8 @@ published: true
 
 ## 【完全まとめ】画像生成AIの次世代アーキテクチャGRN：拡散モデルの課題を解決するHierarchical Binary Quantizationとは？
 
-![a group of water drops](https://images.unsplash.com/photo-1664527184293-8ab968c4aa25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxHZW5lcmF0aXZlJTIwUmVmaW5lbWVudCUyME5ldHdvcmtzfGVufDB8MHx8fDE3NzYyMjQwNTF8MA&ixlib=rb-4.1.0&q=80&w=1080)
+![a group of water drops](data/images/stock/zenn-Generative_Refinemen-daf135a1_0.jpg "https://images.unsplash.com/photo-1664527184293-8ab968c4aa25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxHZW5lcmF0aXZlJTIwUmVmaW5lbWVudCUyME5ldHdvcmtzfGVufDB8MHx8fDE3NzYyMjQwNTF8MA&ixlib=rb-4.1.0&q=80&w=1080")
+
 
 正直、画像生成AIの進化って、マジで目まぐるしいですよね。Stable DiffusionとかMidjourneyあたりがリリースされてから、ほんの数年で、もはや写真と区別がつかないレベルの画像を生成できるようになりました。でも、その裏には、とんでもない計算コストが隠されているんです。
 
@@ -133,7 +134,7 @@ function convertToGrayscale(image: ImageData): ImageData {
 
 <!-- AFFILIATE_SECTION -->
 
-![an abstract image of a network of dots](https://images.unsplash.com/photo-1678845536613-5cf0ec5245cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxHZW5lcmF0aXZlJTIwUmVmaW5lbWVudCUyME5ldHdvcmtzfGVufDB8MHx8fDE3NzYyMjQwNTF8MA&ixlib=rb-4.1.0&q=80&w=1080)
+![an abstract image of a network of dots](data/images/stock/zenn-Generative_Refinemen-daf135a1_1.jpg "https://images.unsplash.com/photo-1678845536613-5cf0ec5245cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxHZW5lcmF0aXZlJTIwUmVmaW5lbWVudCUyME5ldHdvcmtzfGVufDB8MHx8fDE3NzYyMjQwNTF8MA&ixlib=rb-4.1.0&q=80&w=1080")
 
 ## 関連リンク
 

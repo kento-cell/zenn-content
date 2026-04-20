@@ -8,7 +8,8 @@ published: true
 
 ## 【完全攻略】強化学習PPOでAtCoder Candy Boxに挑む - 育児とエンジニアリングの狭間から
 
-![white printer papers](https://images.unsplash.com/photo-1570929057588-6952f7dd2305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxyZXNlYXJjaCUyMHBhcGVyJTIwUFBPfGVufDB8MHx8fDE3NzY2Mzk1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080)
+![white printer papers](data/images/stock/zenn-AHC015______PPO_____-7a6402af_0.jpg "https://images.unsplash.com/photo-1570929057588-6952f7dd2305?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxyZXNlYXJjaCUyMHBhcGVyJTIwUFBPfGVufDB8MHx8fDE3NzY2Mzk1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080")
+
 
 育児に仕事に、日々バタバタと過ごしているエンジニアの皆さん、お疲れ様です。正直、週末にまとまった時間が取れること自体が奇跡ですよね。そんな中、ふと「何か新しいことに挑戦してみよう」と軽い気持ちで手をつけたのが、AtCoderで開催されたAHC015（Candy Box）です。そして、思い切って強化学習（PPO: Proximal Policy Optimization）に挑戦してみた、というわけです。
 
@@ -116,7 +117,7 @@ graph LR
 
 <!-- AFFILIATE_SECTION -->
 
-![yellow sticky note on white printer paper](https://images.unsplash.com/photo-1629019621373-e5087c90067b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxyZXNlYXJjaCUyMHBhcGVyJTIwUFBPfGVufDB8MHx8fDE3NzY2Mzk1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080)
+![yellow sticky note on white printer paper](data/images/stock/zenn-AHC015______PPO_____-7a6402af_1.jpg "https://images.unsplash.com/photo-1629019621373-e5087c90067b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxyZXNlYXJjaCUyMHBhcGVyJTIwUFBPfGVufDB8MHx8fDE3NzY2Mzk1Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080")
 
 ## 関連リンク
 
