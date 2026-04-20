@@ -8,8 +8,7 @@ published: true
 
 ## 【永久保存版】画像生成AIの精度をどこまで引き出せる？LeapAlignで「早期ステップ」を攻略する
 
-![Abstract illustration of AI with silhouette head full of eyes, symbolizing observation and technology.](data/images/stock/zenn-LeapAlign__Post-Trai-f37a7fd1_0.jpg "https://images.pexels.com/photos/8849295/pexels-photo-8849295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940")
-
+![Abstract illustration of AI with silhouette head full of eyes, symbolizing observation and technology.](/images/20260417-ai-leapalign/zenn-LeapAlign__Post-Trai-f37a7fd1_0.jpg)
 
 正直、画像生成AIの進化って目まぐるしいですよね。でも、最新モデルを使っても、生成される画像が期待通りでなかったり、テキストに合わなかったり… ぶっちゃけ、もどかしい経験、ありませんか？
 
@@ -61,8 +60,7 @@ class FlowMatchingModel(nn.Module):
         image = ...
         return image
 
-
-![A modern humanoid robot with digital face and luminescent screen, symbolizing innovation in technology.](data/images/stock/zenn-LeapAlign__Post-Trai-f37a7fd1_1.jpg "https://images.pexels.com/photos/8566526/pexels-photo-8566526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940")
+![A modern humanoid robot with digital face and luminescent screen, symbolizing innovation in technology.](/images/20260417-ai-leapalign/zenn-LeapAlign__Post-Trai-f37a7fd1_1.jpg)
 
 ## LeapAlignの学習ループ
 def leap_align_training_loop(model, optimizer, data_loader, leap_size):

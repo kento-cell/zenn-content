@@ -8,8 +8,7 @@ published: true
 
 ## 【完全自動】Let’s Encryptの短期証明書運用は、開発者の時間泥棒だ
 
-![yellow red and blue letter m wall art](data/images/stock/zenn-Let_s_Encrypt_______-48c5a044_0.jpg "https://images.unsplash.com/photo-1593079039048-027ed676a73f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxMZXQlMjBBUkklMjBBQ01FfGVufDB8MHx8fDE3NzY2NTI2MzR8MA&ixlib=rb-4.1.0&q=80&w=1080")
-
+![yellow red and blue letter m wall art](/images/20260420-lets-encrypt/zenn-Let_s_Encrypt_______-48c5a044_0.jpg)
 
 正直、最近のWeb開発の流れを見てると、セキュリティ対策は必須だけど、そのための手間が半端ないですよね。特にSSL証明書の発行と更新。Let's Encryptは無料で利用できる素晴らしいサービスだけど、特に短期証明書を導入している環境では、その運用が想像以上に大変だったという話を聞くことが増えてきました。
 

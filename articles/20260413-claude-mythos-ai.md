@@ -8,8 +8,7 @@ published: true
 
 ## 【警告・永久保存版】Claude Mythosがもたらすセキュリティパラドックス：Webエンジニアが直面する「別次元」の脅威
 
-![Website interface with text and abstract drawing](data/images/stock/zenn-Claude_Mythos________0.jpg)
-
+![Website interface with text and abstract drawing](/images/20260413-claude-mythos-ai/zenn-Claude_Mythos________0.jpg)
 
 ぶっちゃけ、AIの進化って、マジで目まぐるしいですよね。先日、Anthropicが発表した最新AIモデル「Claude Mythos Preview」のリリース方針を聞いて、思わず「これはヤバい…」と声に出してしまいました。セキュリティ上の懸念がこれほどまでに大きいAIモデルって、なかなか経験できない。まるでパンドラの箱を開けたような状況です。
 

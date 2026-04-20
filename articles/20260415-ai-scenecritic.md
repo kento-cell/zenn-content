@@ -52,15 +52,14 @@ graph LR
 ```python
 ## 3D空間の画像を特徴量ベクトルに変換
 
-![A graph depicts decaying oscillations over time.](data/images/stock/zenn-SceneCritic__A_Symbo-b59e4273_0.jpg "https://images.unsplash.com/photo-1754304342349-ac409efb67c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxTY2VuZUNyaXRpYyUyMFN5bWJvbGljJTIwRXZhbHVhdG9yfGVufDB8MHx8fDE3NzYyMjAxMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080")
+![A graph depicts decaying oscillations over time.](/images/20260415-ai-scenecritic/zenn-SceneCritic__A_Symbo-b59e4273_0.jpg)
 
 feature_vector = encoder(3d_image)
 
 ## 評価モデルで評価を予測
 predicted_score = evaluation_model(feature_vector)
 
-
-![A graph showing a decreasing series of peaks.](data/images/stock/zenn-SceneCritic__A_Symbo-b59e4273_1.jpg "https://images.unsplash.com/photo-1754304342491-6572d4bd2a03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxTY2VuZUNyaXRpYyUyMFN5bWJvbGljJTIwRXZhbHVhdG9yfGVufDB8MHx8fDE3NzYyMjAxMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080")
+![A graph showing a decreasing series of peaks.](/images/20260415-ai-scenecritic/zenn-SceneCritic__A_Symbo-b59e4273_1.jpg)
 
 ## 損失関数で予測された評価と人間の評価との差を計算
 loss = loss_function(predicted_score, human_score)
