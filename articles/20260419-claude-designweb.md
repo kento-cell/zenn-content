@@ -8,8 +8,7 @@ published: true
 
 ## 【必修】Claude Designの「創造性」はWebエンジニアに何をもたらすのか？ — 潜在能力と落とし穴
 
-![Sticky notes with words and drawings on wooden table.](data/images/stock/zenn-Thoughts_and_feeling-abc66471_0.jpg "https://images.unsplash.com/photo-1760952851538-17a59f691efe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxhaSUyMHRlY2hub2xvZ3klMjBUaG91Z2h0cyUyMGFuZHxlbnwwfDB8fHwxNzc2NTU3NjA4fDA&ixlib=rb-4.1.0&q=80&w=1080")
-
+![Sticky notes with words and drawings on wooden table.](https://images.unsplash.com/photo-1760952851538-17a59f691efe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxhaSUyMHRlY2hub2xvZ3klMjBUaG91Z2h0cyUyMGFuZHxlbnwwfDB8fHwxNzc2NTU3NjA4fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 正直、AIデザインツールなんて、デザイナーの仕事を奪うだけだ、と一時期は思っていました。しかし、AnthropicのClaude Designを触ってから、その認識を大きく改めざるを得ませんでした。単なる画像生成ツールではなく、アイデアの創出を支援し、開発プロセスを加速させる可能性を秘めているんです。今回は、Claude Designの潜在能力と、Webエンジニアが陥りやすい落とし穴について、具体的な事例を交えながら解説します。
 

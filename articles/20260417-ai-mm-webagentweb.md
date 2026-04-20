@@ -8,8 +8,7 @@ published: true
 
 ## 【殿堂記事】AIがウェブページを自動生成する時代は来るのか？ MM-WebAgentの衝撃とWebエンジニアへの示唆
 
-![a colorful toy on a table](data/images/stock/zenn-MM-WebAgent__A_Hiera-d45ffbce_0.jpg "https://images.unsplash.com/photo-1659782229445-19a69f10f6d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxNTSUyMFdlYkFnZW50JTIwSGllcmFyY2hpY2FsfGVufDB8MHx8fDE3NzY0MDI0NjF8MA&ixlib=rb-4.1.0&q=80&w=1080")
-
+![a colorful toy on a table](https://images.unsplash.com/photo-1659782229445-19a69f10f6d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxNTSUyMFdlYkFnZW50JTIwSGllcmFyY2hpY2FsfGVufDB8MHx8fDE3NzY0MDI0NjF8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 正直、Webエンジニアとして、日々UI/UXの改善に取り組んでいると、この分野の進化の速さに圧倒されることもしばしばです。特にAIを活用した自動生成ツールは、そのポテンシャルが計り知れません。しかし、既存のツールをそのままWebページ生成に組み込もうとすると、スタイルの一貫性の欠如やグローバルな整合性の問題が頻繁に発生しますよね。
 
@@ -81,7 +80,7 @@ Webエンジニアは、これらの課題を克服し、MM-WebAgentのような
 
 <!-- AFFILIATE_SECTION -->
 
-![a white object with a smiley face on it](data/images/stock/zenn-MM-WebAgent__A_Hiera-d45ffbce_1.jpg "https://images.unsplash.com/photo-1643631961497-238f8c59d171?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxNTSUyMFdlYkFnZW50JTIwSGllcmFyY2hpY2FsfGVufDB8MHx8fDE3NzY0MDI0NjF8MA&ixlib=rb-4.1.0&q=80&w=1080")
+![a white object with a smiley face on it](https://images.unsplash.com/photo-1643631961497-238f8c59d171?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxNTSUyMFdlYkFnZW50JTIwSGllcmFyY2hpY2FsfGVufDB8MHx8fDE3NzY0MDI0NjF8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 ## 関連リンク
 

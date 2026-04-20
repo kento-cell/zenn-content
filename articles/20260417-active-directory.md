@@ -8,8 +8,7 @@ published: true
 
 ## 【本音】Active Directoryの脆弱性、放置したら会社が消滅する？ 開発者とセキュリティ担当者が語る、緊急対応の裏側
 
-![a blue and white logo](data/images/stock/zenn-_______Active_Direct-73d82450_0.jpg "https://images.unsplash.com/photo-1667372283496-893f0b1e7c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxBY3RpdmUlMjBEaXJlY3Rvcnl8ZW58MHwwfHx8MTc3NjM4MDQwNnww&ixlib=rb-4.1.0&q=80&w=1080")
-
+![a blue and white logo](https://images.unsplash.com/photo-1667372283496-893f0b1e7c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwxfHxBY3RpdmUlMjBEaXJlY3Rvcnl8ZW58MHwwfHx8MTc3NjM4MDQwNnww&ixlib=rb-4.1.0&q=80&w=1080)
 
 正直、Active Directoryの脆弱性って、Webエンジニアなら「ああ、またか…」って思うかもしれない。でも、今回の件は、ただの修正対応で済むレベルじゃない。放置したら、会社が消滅するレベルの話だって、誰が言い切れる？
 
@@ -83,7 +82,7 @@ graph LR
 
 <!-- AFFILIATE_SECTION -->
 
-![Acer flat screen monitor](data/images/stock/zenn-_______Active_Direct-73d82450_1.jpg "https://images.unsplash.com/photo-1549287786-aa03e0081950?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxBY3RpdmUlMjBEaXJlY3Rvcnl8ZW58MHwwfHx8MTc3NjM4MDQwNnww&ixlib=rb-4.1.0&q=80&w=1080")
+![Acer flat screen monitor](https://images.unsplash.com/photo-1549287786-aa03e0081950?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTgxMTd8MHwxfHNlYXJjaHwyfHxBY3RpdmUlMjBEaXJlY3Rvcnl8ZW58MHwwfHx8MTc3NjM4MDQwNnww&ixlib=rb-4.1.0&q=80&w=1080)
 
 ## 関連リンク
 
